@@ -1,0 +1,16 @@
+{
+  "name": "cpTwo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.0",
+    "react-native": "^0.29.0",
+    "react-native-material-design": "^0.3.6",
+    "react-native-material-kit": "^0.3.2",
+    "react-native-scrollable-tab-view": "^0.5.2",
+    "tcomb-form-native": "^0.5.2"
+  }
+}
